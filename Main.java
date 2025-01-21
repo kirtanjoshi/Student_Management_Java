@@ -1,5 +1,5 @@
 class Student{
-    privyye name;
+    String name;
     int age;
     float marks;
 
